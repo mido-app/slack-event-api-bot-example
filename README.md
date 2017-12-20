@@ -8,9 +8,9 @@ Slackのチャンネルに投稿された日本語メッセージに不自然な
 
 | 環境変数名 | 値 |
 | --- | --- |
-| SLACK_APP_AUTH_TOKEN | Slack API（https://api.slack.com）の認証トークンを指定します |
+| SLACK_APP_AUTH_TOKEN | Slack API( https://api.slack.com )の認証トークンを指定します |
 | SLACK_BOT_USER_ACCESS_TOKEN | Slack APIの「OAuth & 権限」のページに表示されるボットユーザの認証トークンを指定します |
-| PROOF_READING_API_KEY | リクルートのProofreading API（https://a3rt.recruit-tech.co.jp/product/proofreadingAPI/）のAPIキーを指定します |
+| PROOF_READING_API_KEY | リクルートのProofreading API( https://a3rt.recruit-tech.co.jp/product/proofreadingAPI/ )のAPIキーを指定します |
 
 # その他
 細かな使い方、ソースコードの解説はのちに記事にしますのでそちらをご覧ください。
